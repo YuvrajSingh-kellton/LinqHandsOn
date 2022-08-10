@@ -1,0 +1,15 @@
+D:\C# Programs\LinqHandsOn\bin\Debug\net6.0\LinqHandsOn.exe
+D:\C# Programs\LinqHandsOn\bin\Debug\net6.0\LinqHandsOn.deps.json
+D:\C# Programs\LinqHandsOn\bin\Debug\net6.0\LinqHandsOn.runtimeconfig.json
+D:\C# Programs\LinqHandsOn\bin\Debug\net6.0\LinqHandsOn.dll
+D:\C# Programs\LinqHandsOn\bin\Debug\net6.0\LinqHandsOn.pdb
+D:\C# Programs\LinqHandsOn\obj\Debug\net6.0\LinqHandsOn.csproj.AssemblyReference.cache
+D:\C# Programs\LinqHandsOn\obj\Debug\net6.0\LinqHandsOn.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\LinqHandsOn\obj\Debug\net6.0\LinqHandsOn.AssemblyInfoInputs.cache
+D:\C# Programs\LinqHandsOn\obj\Debug\net6.0\LinqHandsOn.AssemblyInfo.cs
+D:\C# Programs\LinqHandsOn\obj\Debug\net6.0\LinqHandsOn.csproj.CoreCompileInputs.cache
+D:\C# Programs\LinqHandsOn\obj\Debug\net6.0\LinqHandsOn.dll
+D:\C# Programs\LinqHandsOn\obj\Debug\net6.0\refint\LinqHandsOn.dll
+D:\C# Programs\LinqHandsOn\obj\Debug\net6.0\LinqHandsOn.pdb
+D:\C# Programs\LinqHandsOn\obj\Debug\net6.0\LinqHandsOn.genruntimeconfig.cache
+D:\C# Programs\LinqHandsOn\obj\Debug\net6.0\ref\LinqHandsOn.dll
